@@ -32,8 +32,6 @@
 21. [Markdown mastering](https://guides.github.com/features/mastering-markdown/)
 22. [Go lib search](https://golanglibs.com)
 29. [Unicode table](https://unicode-table.com/en/)
-30. [Google cloud platform GCP Python Github](https://github.com/GoogleCloudPlatform/python-docs-samples/)
-31. [Google cloud platform GCP link](https://cloud.google.com/natural-language/docs/classify-text-tutorial)
 32. [Go Open Source, Distributed, Simple and efficient Search Engine Riot](https://github.com/go-ego/riot)
 33. [Go libs interaction with ElasticSearch](https://github.com/OwnLocal/goes)
 34. [A Go (golang) based Elasticsearch client library.](https://github.com/mattbaird/elastigo)
@@ -46,3 +44,4 @@
 44. [Running Elasticsearch with MongoDB](http://backslash451.github.io/articles/Running-ElasticSearch-with-MongoDB-and-Kibana/)
 45. [Elasticsearch client for Go. https://olivere.github.io/elastic/](https://github.com/olivere/elastic)
 46. [a go daemon that syncs mongodb to elasticsearch in realtime https://rwynn.github.io/monstache-site/](https://github.com/rwynn/monstache)
+47. [Elastic search cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/)
