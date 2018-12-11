@@ -13,3 +13,4 @@ http://qwone.com/~jason/20Newsgroups/
 13. [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
 14. [A Gentle Introduction to the Bag-of-Words Model](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
 15. [elastic search vietnamese analysis](http://duydo.me/how-to-build-elasticsearch-vietnamese-analysis-plugin/)
+16. [nlp problem and how to solve](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
