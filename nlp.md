@@ -14,3 +14,5 @@ http://qwone.com/~jason/20Newsgroups/
 14. [A Gentle Introduction to the Bag-of-Words Model](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
 15. [elastic search vietnamese analysis](http://duydo.me/how-to-build-elasticsearch-vietnamese-analysis-plugin/)
 16. [nlp problem and how to solve](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+17. [harvard research nlp](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+18. [BERT](https://viblo.asia/p/bert-buoc-dot-pha-moi-trong-cong-nghe-xu-ly-ngon-ngu-tu-nhien-cua-google-RnB5pGV7lPG)
