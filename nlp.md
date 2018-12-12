@@ -16,3 +16,4 @@ http://qwone.com/~jason/20Newsgroups/
 16. [nlp problem and how to solve](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 17. [harvard research nlp](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 18. [BERT](https://viblo.asia/p/bert-buoc-dot-pha-moi-trong-cong-nghe-xu-ly-ngon-ngu-tu-nhien-cua-google-RnB5pGV7lPG)
+19. [vector space modeling](https://github.com/ishaan007/vector_space_modelling)
