@@ -45,3 +45,9 @@
 45. [Elasticsearch client for Go. https://olivere.github.io/elastic/](https://github.com/olivere/elastic)
 46. [a go daemon that syncs mongodb to elasticsearch in realtime https://rwynn.github.io/monstache-site/](https://github.com/rwynn/monstache)
 47. [Elastic search cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/)
+48. [Gorgonia is a library that helps facilitate machine learning in Go. GPU](https://github.com/gorgonia/gorgonia)
+49. [Package cu provides an idiomatic interface to the CUDA Driver API.](https://godoc.org/gorgonia.org/cu)
+50. [Go (golang) based GPU miner for Decred.](https://github.com/decred/gominer)
+https://godoc.org/github.com/bbalet/stopwords
+51. [Go parse user agent detect device](https://github.com/avct/uasurfer)
+52. [effective golang](https://golang.org/doc/effective_go.html)
