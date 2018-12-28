@@ -18,3 +18,36 @@ https://medium.com/@AzilenTech/integrating-elastic-search-with-mongodb-using-no-
 https://www.elastic.co/guide/en/elasticsearch/reference/current/fielddata.html#_enabling_fielddata_on_literal_text_literal_fields
 https://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835
 https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8
+
+-- Go build for linux amd64 hierachy
+GOOS=linux GOARCH=amd64 go build -o history_media /e/learning/go/dmp_history/history/history_media.go
+
+-- Go build for windows amd64 hierachy
+GOOS=windows GOARCH=amd64 go build -o read_file.exe /e/Ampps/www/devdmp/public_html/apps/golang/read_files/r_read_file.go
+
+db.data.update({'name': 'zero'}, {'$set': {'value': NumberInt(0)}})
+https://www.elastic.co/guide/en/elasticsearch/reference/current/common-options.html
+https://thestrangeloop.com/2018/a-funny-thing-happened-on-the-way-to-reimplementing-alphago.html
+https://howtodoinjava.com/regex/java-regex-specific-contain-word/
+https://teamtreehouse.com/community/get-exact-match-of-a-word-using-regex
+https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
+https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
+https://jakevdp.github.io/blog/2013/04/29/benchmarking-nearest-neighbor-searches-in-python/
+https://www.python-course.eu/k_nearest_neighbor_classifier.php
+https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
+https://www.geeksforgeeks.org/implementation-k-nearest-neighbors/
+https://medium.com/@purnasaigudikandula/ultimate-guide-and-resources-for-data-science-2019-f663f9384fc7
+https://medium.com/@purnasaigudikandula/exploratory-data-analysis-beginner-univariate-bivariate-and-multivariate-habberman-dataset-2365264b751?fbclid=IwAR3qk2MWEGOcYtpxoghoS6zsGp56wBBoJRqXnnmkCHuIjiqdV1unfzC_lvU
+
+https://mubaris.com/posts/kmeans-clustering/
+https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
+http://benalexkeen.com/k-means-clustering-in-python/
+https://pythonprogramminglanguage.com/kmeans-clustering-algorithm/
+https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+https://datatofish.com/k-means-clustering-python/
+https://www.marktechpost.com/2018/04/26/top-deep-learning-papers-2018-edition/
+https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
+https://solr.pl/en/2011/07/18/deep-paging-problem/
+https://viblo.asia/p/deep-pagination-with-scroll-in-elasticsearch-Az45bWroKxY
+https://www.elastic.co/guide/en/elasticsearch/guide/current/reindex.html
