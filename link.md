@@ -51,3 +51,4 @@
 https://godoc.org/github.com/bbalet/stopwords
 51. [Go parse user agent detect device](https://github.com/avct/uasurfer)
 52. [effective golang](https://golang.org/doc/effective_go.html)
+53. [Elastic with golang tutorial](http://goinbigdata.com/working-with-elasticsearch-in-go/)
