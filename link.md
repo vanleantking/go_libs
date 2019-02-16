@@ -53,3 +53,7 @@ https://godoc.org/github.com/bbalet/stopwords
 52. [effective golang](https://golang.org/doc/effective_go.html)
 53. [Elastic with golang tutorial](http://goinbigdata.com/working-with-elasticsearch-in-go/)
 54. [](https://www.salsify.com/blog/engineering/efficient-pagination-in-sql-and-elasticsearch)
+55. [Package beam is an implementation of the Apache Beam (https://beam.apache.org) programming model in Go. Beam provides a simple, powerful model for building both batch and streaming parallel data processing pipelines. https://blog.gopheracademy.com/advent-2018/apache-beam/](https://godoc.org/github.com/apache/beam/sdks/go/pkg/beam)
+56. [Go and Apache Arrow: building blocks for data science https://blog.gopheracademy.com/advent-2018/go-arrow/ https://godoc.org/github.com/apache/arrow/go](https://godoc.org/github.com/apache/arrow/go/arrow#pkg-examples)
+57. [Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
+58. [Kasper is a lightweight library for processing Kafka topics.](https://github.com/nmaquet/kasper)

@@ -17,3 +17,4 @@ http://qwone.com/~jason/20Newsgroups/
 17. [harvard research nlp](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 18. [BERT](https://viblo.asia/p/bert-buoc-dot-pha-moi-trong-cong-nghe-xu-ly-ngon-ngu-tu-nhien-cua-google-RnB5pGV7lPG)
 19. [vector space modeling](https://github.com/ishaan007/vector_space_modelling)
+https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
