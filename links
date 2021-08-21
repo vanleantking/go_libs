@@ -5,6 +5,7 @@ https://www.topcoder.com/community/competitive-programming/tutorials/introductio
 https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
 https://news.ycombinator.com/item?id=12172008
 https://ai.google/research/pubs/pub62
+https://github.com/gopherdata/resources
 
 https://fxdata.cloud/tutorials/sync-transformed-data-from-mongodb-to-elasticsearch-with-transporter-on-ubuntu-14-04
 https://stackoverflow.com/questions/42010937/how-to-import-data-to-elasticsearch-using-golang
@@ -38,6 +39,8 @@ https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
 https://www.geeksforgeeks.org/implementation-k-nearest-neighbors/
 https://medium.com/@purnasaigudikandula/ultimate-guide-and-resources-for-data-science-2019-f663f9384fc7
 https://medium.com/@purnasaigudikandula/exploratory-data-analysis-beginner-univariate-bivariate-and-multivariate-habberman-dataset-2365264b751?fbclid=IwAR3qk2MWEGOcYtpxoghoS6zsGp56wBBoJRqXnnmkCHuIjiqdV1unfzC_lvU
+https://www.ardanlabs.com/blog/2013/11/using-log-package-in-go.html
+https://www.scalyr.com/blog/go-logging/
 
 https://mubaris.com/posts/kmeans-clustering/
 https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
@@ -51,3 +54,29 @@ https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-pytho
 https://solr.pl/en/2011/07/18/deep-paging-problem/
 https://viblo.asia/p/deep-pagination-with-scroll-in-elasticsearch-Az45bWroKxY
 https://www.elastic.co/guide/en/elasticsearch/guide/current/reindex.html
+
+https://github.com/EbookFoundation
+http://www.marekrei.com/blog/ml-and-nlp-publications-in-2018/?fbclid=IwAR2RaKkzDeeMeQaak28OJ1OKb65MyLVsGwiGdjt-JgaSFvHc1GaGtD-nS5Y
+https://www.gangboard.com/blog/difference-between-data-science-and-machine-learning/?fbclid=IwAR1-WVCpjJHHcPM1OfdTieSn2lWHc8shvb5TslduHsz6nVHMWW7muW1fadU
+https://www.besanttechnologies.com/training-courses/data-warehousing-training/datascience-training-institute-in-chennai?fbclid=IwAR33pLFv8Gl1OigKZM1d1-8eVhuQEsJ1Jf-hkW8ak-ZLkyOCSECf_Bb8t0k
+https://www.techleer.com/articles/438-a-list-of-top-data-mining-algorithms/?fbclid=IwAR3G756FSNbvK4F-e409uz0S7LFfyv78XSMCxr5YSdEzOU9dsVNCN__Lbc4
+https://www.ebayinc.com/stories/blogs/tech/an-approach-for-metadata-store-on-large-volume-data-sets/?fbclid=IwAR0utqXp7_YdYHK3ZyHmtKDkrA0xBy-p96YCcyezqTZW3GrNSyJcXfTgAXE
+https://maxchama.blogspot.com/2019/01/deep-learning-activation-functions.html?fbclid=IwAR3Ft-t6k7CI7twfzpiKJuIbKPm70I8KohYfrqz2PKlT1li4YvRa-0ec0oY
+https://houseofbots.com/news-detail/4603-1-8-easy-steps-to-learn-data-science-in-2019?fbclid=IwAR1hF_B5qEz0wNjwR8nh6H-YijlQXOKBa_FnFdVT4yRsrxIUEV31hf0H5as
+https://techgrabyte.com/machine-learning-dummies-pdf-book/?fbclid=IwAR0hxAJltYE6NPxcJhqBO3EMZWnjkRS9B-jmmrHERuE6gXd2ZWrvSZIT_cw
+https://docs.mongodb.com/manual/core/distributed-queries/
+https://docs.mongodb.com/manual/applications/data-models/
+https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/
+https://www.infoworld.com/article/3262053/business-intelligence/how-to-bring-bi-and-analytics-to-modern-nested-data-structures.html
+https://www.whizlabs.com/blog/hive-vs-pig-vs-sql/
+https://setscholars.net/category/data-science/
+https://medium.com/sigmoid/linear-regression-from-scratch-with-python-5c33712a1cec
+https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7
+https://paperswithcode.com/sota?
+https://www.hadoop360.datasciencecentral.com/blog/50-articles-about-hadoop-and-related-topics
+https://www.dremio.com/webinars/apache-arrow-calcite-parquet-relational-cache/
+https://beam.apache.org/documentation/programming-guide/#transforms
+http://learnmongodbthehardway.com/schema/indexes/
+https://docs.mongodb.com/manual/core/index-compound/
+https://stackoverflow.com/questions/33545339/how-does-the-order-of-compound-indexes-matter-in-mongodb-performance-wise
+https://stackoverflow.com/questions/47893613/mongodb-find-performance-single-compound-index-vs-two-single-field-indexes
