@@ -8,5 +8,5 @@ https://www.marktechpost.com/2018/04/26/top-deep-learning-papers-2018-edition/
 33. [Deep learning and ML ebooks](https://github.com/devakar/deep-learning-books)
 34. [recommendation system from scatch](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 35. [Homemade machine learing](https://github.com/trekhleb/homemade-machine-learning)
-36. [A Gentle Introduction to Recommender Systems with Implicit Feedback
-](https://jessesw.com/Rec-System/)
+36. [A Gentle Introduction to Recommender Systems with Implicit Feedback](https://jessesw.com/Rec-System/)
+37. [Rasa Open Source](https://github.com/RasaHQ/rasa)
