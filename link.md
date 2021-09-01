@@ -60,3 +60,4 @@ https://godoc.org/github.com/bbalet/stopwords
 59. [google logger](https://github.com/google/logger)
 60. [Open Neural Network Exchange](https://github.com/onnx/onnx)
 61. [Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang](https://github.com/james-bowman/nlp)
+62. [Golang cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
