@@ -18,3 +18,4 @@ http://qwone.com/~jason/20Newsgroups/
 18. [BERT](https://viblo.asia/p/bert-buoc-dot-pha-moi-trong-cong-nghe-xu-ly-ngon-ngu-tu-nhien-cua-google-RnB5pGV7lPG)
 19. [vector space modeling](https://github.com/ishaan007/vector_space_modelling)
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
+20. [TF-IDF from scratch in python on a real-world dataset](https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089)

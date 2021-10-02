@@ -12,3 +12,4 @@ https://www.marktechpost.com/2018/04/26/top-deep-learning-papers-2018-edition/
 10. [Rasa Open Source](https://github.com/RasaHQ/rasa)
 11. [machine learning road](https://github.com/yanshengjia/ml-road)
 12. [Applied ML](https://github.com/eugeneyan/applied-ml)
+13. [Made With ML](https://github.com/GokuMohandas/MadeWithML)
